@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("data/arc3.jpg");
+    background-color: #cccccc;
+}
+
+h1{
+    color: deepskyblue;
+    background-color: gold;
+}
+
+h2{
+    color: gold;
+    background-color: deepskyblue;
+}
+h3{
+    font-size: xx-large;
+    color:red;
+    background-color: black;
+}
