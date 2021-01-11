@@ -13,4 +13,4 @@ Le site internet Le jardin vidéo est présentement en évolution. Comme objecti
 
 Stéphanie L'Heureux
 
-Merci à Tristan Franc pour l'assistance technique
+Merci à Tristan Franc pour l'assistance technique.
