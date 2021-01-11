@@ -1,7 +1,7 @@
 body
 
 {
-    background-image: url("data/fond1.jpeg");
+    background-image: url("/data/fond1.jpeg");
     background-color: #cccccc;
 }
 img{
